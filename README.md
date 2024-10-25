@@ -14,7 +14,7 @@
 
 </p>
   <a href="[Git](https://github.com/lchampz)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geecunha&hide_progress=true&theme=blueberry&langs_count=8&locale=en" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchampz&hide_progress=true&theme=blueberry&langs_count=8&locale=en" />
   </a>
 </div>
 </h2>
