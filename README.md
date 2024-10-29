@@ -11,7 +11,7 @@ const lchampz = {
                 food: "Barbecue",
     },
     learning: ["IaC", "GO", "Java"]
-    lifeGoal: "I plan to one day build my own T.A.R.D.I.S."
+    lifeGoal: "Work with research!"
 }
 ```
  
