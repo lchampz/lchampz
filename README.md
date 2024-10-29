@@ -1,4 +1,4 @@
- ### <h2 align="center">Victor Longchamps (ou simplesmente Champz)</h2>
+ ### <h2 align="center">Longchamps</h2>
 
  ```javascript
 const lchampz = {
