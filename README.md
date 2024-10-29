@@ -1,16 +1,27 @@
  ### <h2 align="center">Victor Longchamps (ou simplesmente Champz)</h2>
+
+ ```javascript
+const lchampz = {
+    pronouns: "he" | "him",
+    programming: [ Typescript, Javascript, C# ],
+    frontEnd: [ React, Next, HTML, CSS, StyledComponents ],
+    backEnd: [ Node, Express, Docker, C#, VB.Net, Firebase, SQL ],
+    personal: {
+                hobbie: ["hangout with my gf", "programming", "watch horror movies"],
+                food: "Barbecue",
+    },
+    learning: ["IaC", "GO", "Java"]
+    lifeGoal: "I plan to one day build my own T.A.R.D.I.S."
+}
+```
  
 - 🔭 Atualmente trabalhando no projeto chat-app, que utiliza Next.js no front e Node.js no back! **[Chat-App](https://github.com/lchampz/chat-app)**
-
-- 🌱 Atualmente estou aprendendo mais sobre **Java e Go**
 
 - 💬 Sempre disponível para ajudar quando o assunto é **Javascript, React, Typescript, Node ou C#!**
 
 - 📫 Estou neste email: **victor.and.longchamps@gmail.com**
 
 - 📄  **[Meu currículo!](https://iron-catsup-53d.notion.site/Victor-Longchamps-CV-12a98fee79198021af11ef7b0637f5ec?pvs=4)**
-
-- ⚡ Fun fact sobre mim é que **eu ADORO filmes de terror!!**
 
 </p>
   <a href="[Git](https://github.com/lchampz)">
@@ -19,8 +30,6 @@
 </div>
 </h2>
  <hr>
-
-
 
 ### Habilidades:
 
