@@ -10,7 +10,7 @@ const lchampz = {
                 hobbie: ["hangout with my gf", "programming", "watch horror movies"],
                 food: "Barbecue",
     },
-    learning: ["IaC", "GO", "Java"]
+    learning: ["IaC", "GO", "Java"],
     lifeGoal: "Work with research!"
 }
 ```
