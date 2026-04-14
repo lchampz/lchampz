@@ -2,54 +2,15 @@
 
  ```javascript
 const lchampz = {
-    pronouns: "he" | "him",
-    programming: [ Typescript, Javascript, C# ],
-    frontEnd: [ React, Next, HTML, CSS, StyledComponents ],
-    backEnd: [ Node, Express, Docker, C#, VB.Net, Firebase, SQL ],
+    pronouns: "*",
+    stacks: [ Elixir, C, Typescript, Java, Rust, GO ]
     personal: {
-                hobbie: ["hangout with my gf", "programming", "watch horror movies"],
-                food: "Barbecue",
+                hobbie: ["play videogames", "programming", "watch horror movies"],
     },
-    learning: ["IaC", "GO", "Java"],
+    learning: ["Distributed Systems", "Federated Learning"],
     lifeGoal: "Work with research!"
 }
 ```
- 
-- 🔭 Atualmente trabalhando no projeto chat-app, que utiliza Next.js no front e Node.js no back! **[Chat-App](https://github.com/lchampz/chat-app)**
-
-- 💬 Sempre disponível para ajudar quando o assunto é **Javascript, React, Typescript, Node ou C#!**
-
-- 📫 Estou neste email: **victor.and.longchamps@gmail.com**
-
-- 📄  **[Meu currículo!](https://iron-catsup-53d.notion.site/Victor-Longchamps-CV-12a98fee79198021af11ef7b0637f5ec?pvs=4)**
-
-</p>
-  <a href="[Git](https://github.com/lchampz)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchampz&hide_progress=true&theme=blueberry&langs_count=8&locale=en" />
-  </a>
-</div>
-</h2>
- <hr>
-
-### Habilidades:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
 
 ### Contatos:
 
